@@ -22,10 +22,10 @@ by: Matthew Dalton
 [[Conclusion](#conclusion)]
 ___
 
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vR19fsVfxHvzjrp0kSMlzHlmyU0oeTTAcnTUT9dNe4wAEXv_2WJNViUa9qzjkvcpvkFeUCyatccINde/pub?w=1389&amp;h=410">
 
 ## <a name="project_description"></a>Project Description:
 [[Back to top](#top)]
-
 
 ***
 ## <a name="planning"></a>Project Planning: 
@@ -176,15 +176,11 @@ To run the ANOVA test in Python use the following import: \
 
 ### Models and R<sup>2</sup> Values:
 - Will run the following regression models:
-    - Linear Regression
-    - LassoLars Model
-    - Tweedie Regressor (GLM)
-    - Quadratic Regression
+
     
 
 - Other indicators of model performance with breif defiition and why it's important:
-    - R<sup>2</sup> Value is the coefficient of determination, pronounced "R squared", is the proportion of the variance in the dependent variable that is predictable from the independent variable. 
-    - Essentially it is a statistical measure of how close the data are to the fitted regression line.
+
     
     
 #### Model 1: Linear Regression (OLS)
